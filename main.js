@@ -1,5 +1,5 @@
 let nomeUsuario = 'geovana';
-alert ('geovana');
+alert ('nomeUsuario');
 
 
 
