@@ -1,5 +1,5 @@
-let nomeUsuario = ('geovana');
-alert ('geovana');
+let nomeUsuario = 'geovana';
+alert (nomeUsuario);
 
 
 
