@@ -1,4 +1,4 @@
-let nomeUsuario = 'geovana';
+let nomeUsuario = ('geovana');
 alert ('geovana');
 
 
