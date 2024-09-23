@@ -16,6 +16,6 @@ let areaTriangulo=function(base,altura){
 console.log(areaTriangulo(10,20))
 
 let nome=prompt('?');
-document.write(nome);
+document.write(media);
 
 parseInt(prompt('?'))
