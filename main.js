@@ -1,5 +1,5 @@
-// let nomeUsuario = 'geovana';
-// alert (nomeUsuario);
+ let nomeUsuario = 'geovana';
+ alert (nomeUsuario);
 function soma(num1,num2){
     return num1+num2;
 }
@@ -15,7 +15,10 @@ let areaTriangulo=function(base,altura){
 }
 console.log(areaTriangulo(10,20))
 
-let mediaAritmetica=function('?')
-document.write(mediaAritmetica);
-
-parseInt(prompt('?'))
+let mediaAritmetica1=parseInt(prompt('numero 1'));
+let mediaAritmetica2=parseInt(prompt('numero 2'));
+let mediaAritmetica3=parseInt(prompt('numero 3'));
+function media(num1,num2,num3){
+    return(num1+num2+num3)/3;
+}
+document.write(media(mediaAritmetica1,mediaAritmetica2,mediaAritmetica3));
