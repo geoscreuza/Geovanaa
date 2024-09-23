@@ -1,9 +1,9 @@
 // let nomeUsuario = 'geovana';
 // alert (nomeUsuario);
-function soma(A,B){
-    return A+B;
+function soma(1,2){
+    return 1+2;
 }
-console.log (soma(A+B));
+console.log (soma(1+2));
 
 
 
