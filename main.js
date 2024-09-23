@@ -19,3 +19,7 @@ let nome=prompt('insira um numero');
 document.write(nome);
 
 parseInt(prompt('insira um numero'))
+function media(num1,num2,num3){
+    return a=1/n
+}
+console.log(media(?))
