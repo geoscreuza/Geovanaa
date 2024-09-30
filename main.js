@@ -33,3 +33,11 @@ let estados = ['Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Espírito 
 for (let i=0; i<estados.length; i++){
     console.log(estados[i]);
 }
+
+let idade = 18
+if (idade>10) {
+    console.log('já pode casar');
+}
+else{
+    comsole.log('não pode casar');
+}
