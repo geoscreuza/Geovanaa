@@ -39,5 +39,5 @@ if (idade>17) {
     console.log('já pode casar');
 }
 else{
-    comsole.log('não pode casar');
+    console.log('não pode casar');
 }
