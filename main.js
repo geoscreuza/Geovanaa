@@ -35,7 +35,7 @@ for (let i=0; i<estados.length; i++){
 }
 
 let idade = 18
-if (idade>10) {
+if (idade>18) {
     console.log('já pode casar');
 }
 else{
